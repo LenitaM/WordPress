@@ -1,0 +1,21 @@
+Estrutura de Conteúdo WordPress
+
+Tema
+
+Posts
+
+Categorias 
+
+Tags
+
+Páginas
+
+		TEMA
+
+Tema é um conjunto de arquivos que retrata a estrutura fundamental da aparência e do comportamento de um site WordPress.
+
+Então, um tema é a pedra fundamental de qualquer site WordPress, porque ele define um comportamento padrão de como apresentar as informações que o seu site tem para o usuário e qual a aparência, pelo menos a aparência inicial desse site, para o seu usuário final.
+
+A maneira como esses arquivos foram definidos pela pessoa desenvolvedora que criou esse tema, acabam ditando a forma como as páginas, os posts e as outras formas de conteúdo irão aparecer para o usuário, de forma inicial, pelo menos, porque depois podemos customizar isso.
+
+O tema serve para fazer uma configuração inicial. Para que a pessoa usuária, ao acessar o site veja as informações de forma organizada e apresentável.

@@ -1,0 +1,45 @@
+História e Recomendações do WordPress
+
+
+O WordPress é uma plataforma de gerenciamento de conteúdo de websites bastante popular e utilizada por muitas empresas e pessoas ao redor do mundo.
+
+O WordPress oferece um painel administrativo intuitivo e fácil de usar que permite que qualquer pessoa possa gerenciar e manipular o conteúdo de um website sem precisar de conhecimentos técnicos em programação.
+
+O WordPress foi criado em 2003 como uma plataforma de blog e foi desenvolvido a partir da plataforma b2/cafelog. Atualmente, o WordPress é utilizado para criar e desenvolver sites dos mais variados tipos e necessidades, desde sites pessoais até lojas virtuais. De acordo com estimativas, cerca de 34% dos sites na internet foram criados com o WordPress, incluindo sites de empresas e pessoas famosas, como por exemplo: o site da cantora Katy Perry, do atleta Usain Bolt, o blog oficial do Star Wars, e até mesmo o site da banda britânica Rolling Stones.
+
+A alta flexibilidade do WordPress e sua facilidade de uso são algumas das principais razões pelas quais ele se tornou tão popular no mercado.
+
+		Indexar ou nãoIndexar:
+
+1) a visibilidade nos motores de busca é uma opção que pode ser marcada para evitar que mecanismos de busca indexem o site enquanto ele está em desenvolvimento:
+
+É recomendado marcar a opção nos estágios iniciais do desenvolvimento, e desmarcá-lo quando o site estiver pronto para ser indexado pelos buscadores. 
+
+2) qual  é a maneira comum de configurar um ambiente de desenvolvimento local para o WordPress?
+
+O XAMPP é um pacote de software que inclui o Apache, o MySQL e o PHP, além de outras ferramentas necessárias para criar e executar aplicativos web. Ele é frequentemente usado por pessoas desenvolvedoras de WordPress para criar e testar seus sites localmente antes de publicá-los em um servidor remoto.
+
+	A importância do prefixo wp_
+
+Muitas pessoas podem se perguntar o porquê de ser interessante mudar o prefixo da tabela padrão do WordPress de wp_ para algo diferente. A resposta é simples: segurança.
+
+O prefixo padrão da tabela é uma informação pública e conhecida por muitos hackers, o que pode facilitar ataques ao seu site. Mudar o prefixo da tabela pode tornar mais difícil para os invasores adivinharem o nome das tabelas em seu banco de dados.
+
+Além disso, se você estiver usando o mesmo prefixo de tabela em todos os seus sites do WordPress, um invasor que já tenha acesso a um de seus bancos de dados poderá facilmente assumir o controle de seus outros sites. Ao mudar o prefixo da tabela, você pode dificultar a vida dos hackers e proteger seus sites.
+
+Mudar o prefixo da tabela é um processo relativamente simples, contudo requer certo conhecimento técnico pois envolve não apenas editar o arquivo wp-config.php na raiz do seu site alterando a linha table_prefix (que faz referência ao prefixo utilizado atualmente pelas tabelas de dados da aplicação) como também acessar o banco de dados para efetivação da alteração dos prefixos e, finalmente, atualizar todas as referências aos nomes antigos das tabelas do banco para os novos nomes, o que exige conhecimentos da linguagem SQL de manipulação de banco de dados. Sendo assim, o melhor momento para definir e escolher um prefixo para as tabelas do banco de dados do seu site é o momento da instalação do WordPress mesmo.
+
+Adicionalmente, é importante lembrar que antes de fazer qualquer mudança no banco de dados do WordPress, é recomendável fazer um backup completo do site para evitar possíveis problemas.
+
+Em resumo, mudar o prefixo da tabela do WordPress pode ajudar a proteger seus sites contra hackers e é uma medida de segurança importante que deve ser considerada.
+
+
+	CONCLUSÇÃO
+
+WordPress:
+
+As principais características, porque escolhemos esta solução para o desenvolvimento do projeto e como realizar seu download e instalação e;
+
+XAMPP:
+
+Uma ferramenta necessária para instalação e configuração de um ambiente propício à execução de aplicações WordPress (e outros tipos também) diretamente em nossa máquina, “emulando” um cenário próximo ao de produção.

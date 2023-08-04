@@ -1,0 +1,57 @@
+INSTALAÇÃO DO WORDPRESS
+
+1 - Copiar o diretório baixado em lenit - documentos
+
+2 - Por o diretório com o nome do site nas pastas htdocs e mysql > data
+
+3 - os diretórios n podem ter espaços, pode ser "jornadaviagens" ou "jornada-viagens"
+
+4 - abrir o localhost: localhost/nome da pasta 
+
+5 - instalar o bd no wordpress
+
+6 - pede: nome do banco de dados, nome de usuário, senha, servidor de banco de dados e prefixo da tabela.
+
+7 - Em php admin, crie um banco de dados com o nome da pasta
+
+8 - mantém um padrão de codificação: utf8mb4_0900_ai_ci - da suporte a caracteres acentuados, caracteres especiais e dependendo do caso deve mudar.
+
+9 - criar
+
+____________________
+
+10 -
+
+Volta para a pag do wordpress
+
+Nome do banco de dados: nome que deu a pasta
+
+Nome do usuário: root (padrão)
+
+Senha: Dengo2021Luna2022
+
+Prefixo da tabela: wp_ (padrão) - pode trocar por qualquer coisa
+	colocado: jv (jornada viagem) e wp_(wordpress)
+
+_____________
+
+11 - Botão de instalar
+
+Titulo do site
+
+Nome do usário: Seu nome - usuário admin do site
+
+Senha: ele recomenda um senha forte é bom usar ela, mas usei o teste123
+
+confirma o uso de senha fraca
+
+O seu email: email que utiliza para recuperar senha, etc
+
+Visibilidade nos motores de busca: deixar indexado (n encontre o site) quando tiver desenvolvendo um site
+
+________________
+
+Depois disso tudo: Sucesso! 
+
+Acessar com nome de usuário e senha escolhida
+

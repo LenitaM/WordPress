@@ -1,0 +1,27 @@
+XAMPP
+
+O XAMPP é, na verdade, um conjunto de ferramentas, porque ele reúne todo o ferramental necessário para termos um ambiente de execução do nosso site. Vamos entender essa sigla.
+
+X é de multiplataforma;
+
+A é de Apache;
+
+M é de MariaDB;
+
+Primeiro P é de PHP;
+
+Segundo P é de Perl.
+
+Sendo multiplataforma, o XAMPP pode ser executado tanto no Windows, quanto no Linux e no MacOS, ou seja, em qualquer ambiente. Além disso, o apache significa que o servidor é o responsável por executar as páginas do nosso site.
+
+O MariaDB é o banco de dados MySQL, que armazena as informações do nosso site. Por fim, temos o PHP e o Perl. O PHP é a linguagem utilizada pelo WordPress para execução e programação dos seus recursos, ou seja, a linguagem que ele depende para ser executado.
+
+Já o Perl é uma linguagem auxiliar utilizada de forma mais generalista, podendo ser usada tanto para questões web, quanto para outras funções em um servidor. Para nós, o Perl não será muito necessário, pois o PHP é a linguagem principal do WordPress, mas o Perl também vem no pacote XAMPP.
+
+		CONCLUSÃO
+
+WordPress: ferramenta que utilizaremos para criar o site, incluindo páginas, upload de imagens, separação de posts e categorias;
+
+XAMPP: ambiente em que esse site será executado, emulando o ambiente de produção, mas na nossa máquina.
+
+

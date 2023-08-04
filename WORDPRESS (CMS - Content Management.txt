@@ -1,0 +1,6 @@
+WORDPRESS (CMS - Content Management System)
+
+Gerenciar posters e conteúdos de um blog. Pode ter loja virutal, blog, entre outras funcionalidades.
+
+A popularização o wordpress tem facilidade de acesso, diversas hospedagens em linguagem PHP.
+
