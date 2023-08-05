@@ -1,0 +1,5 @@
+Vídeo caso o erro de conexão seja na portaria do mysql com o xampp:
+
+https://www.youtube.com/watch?v=oZ93DWydh3E
+
+Mudar a portaria e ir no logs e mudar a portaria
