@@ -19,3 +19,16 @@ Então, um tema é a pedra fundamental de qualquer site WordPress, porque ele de
 A maneira como esses arquivos foram definidos pela pessoa desenvolvedora que criou esse tema, acabam ditando a forma como as páginas, os posts e as outras formas de conteúdo irão aparecer para o usuário, de forma inicial, pelo menos, porque depois podemos customizar isso.
 
 O tema serve para fazer uma configuração inicial. Para que a pessoa usuária, ao acessar o site veja as informações de forma organizada e apresentável.
+
+Tema é p contéudo central do WordPress.
+
+É por isso que, no ecossistema do WordPress, existe uma alta gama de opções de temas gratuitos, que você pode instalar no seu site, e depois você vai customizando aos poucos, utilizando plugins — que são recursos adicionais, que veremos mais adiante — ou utilizando os próprios recursos de customização que o tema possui. 
+
+***Esta é a principal definição que podemos dar para um tema: É a pedra fundamental de configurações iniciais, para que você tenha um site funcional desde o início.***
+
+Ainda que o tema não te agrade muito de início, seja por causa das cores ou das fontes, pelo menos ele configura um comportamento inicial, para que você veja um site funcionando, e apresentando os dados que você precisa e que, depois, utilizando os recursos do próprio tema, ou recursos adicionais, você vá customizando o seu site aos poucos.
+
+
+Os temas são responsáveis pela aparência e layout do site.
+
+Eles permitem personalizar a aparência do site de acordo com as necessidades do usuário e proporcionam uma melhor experiência visual para os visitantes.
